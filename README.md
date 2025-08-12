@@ -2,6 +2,7 @@
 
 > [!IMPORTANT]
 > This tool is intended only for recovering access to your own files or for educational and testing purposes in authorized environments.
+> 
 > The author does not take any responsibility for misuse of this tool or any illegal activities performed with it.
 
 ## Why these script is better than John The Ripper?
